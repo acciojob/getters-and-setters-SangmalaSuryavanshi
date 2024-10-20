@@ -1,5 +1,5 @@
 //complete this code
-class Person {}
+
 
 class Person {
     constructor(name, age) {
